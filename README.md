@@ -21,6 +21,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nihalbawankar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nihalbawankar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-nihalbawankar.github.io-1F4E79?style=flat-square&logo=github&logoColor=white)](https://nihalbawankar.github.io)
 [![Email](https://img.shields.io/badge/Email-nihalbawankar53@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nihalbawankar53@gmail.com)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-DevOps%20%7C%20Cloud%20%7C%20MLOps-brightgreen?style=flat-square)
 
 </div>
 
@@ -28,14 +29,15 @@
 
 ## 👋 About Me
 
-- 🏢 **AWS DevOps Engineer** at **Capgemini** — building and automating cloud infrastructure
-- ☁️ Working with **AWS (EC2, S3, VPC, IAM, ECS, EKS)**, **Kubernetes**, **Terraform**, **ArgoCD**
-- 🔧 Automating deployments with **Jenkins**, **GitLab CI/CD**, **GitHub Actions**, **Ansible**
+- ☁️ **AWS DevOps Engineer** with hands-on experience building and automating cloud infrastructure
+- 🔧 Proficient in **AWS (EC2, S3, VPC, IAM, ECS, EKS)**, **Kubernetes**, **Terraform**, **ArgoCD**
+- ⚙️ Automating deployments with **Jenkins**, **GitLab CI/CD**, **GitHub Actions**, **Ansible**
 - 🤖 Building **AI/MLOps** platforms — deployed a 10-service MCP-based microservices system on EKS with **OpenAI GPT-4o** tool-calling, **IRSA/OIDC** security, and full observability
 - 📊 Monitoring with **Prometheus** + **Grafana** + **AWS CloudWatch**
 - 🎯 Preparing for **AWS Solutions Architect Associate (SAA-C03)**
 - 📍 Based in **Pune, India**
 - 🌐 Portfolio: [nihalbawankar.github.io](https://nihalbawankar.github.io)
+- 💼 **Open to DevOps, Cloud, SRE, and AI/MLOps opportunities**
 
 ---
 
@@ -134,7 +136,7 @@
 
 | Certification | Issuer | Status |
 |---|---|---|
-| AWS Solutions Architect – Associate (SAA-C03) | Amazon Web Services | 🔄 In Progress (2026) |
+| [AWS Cloud Practitioner Essentials](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7) | Amazon Web Services | ✅ Completed (2026) |
 | Claude 101 Certification | Anthropic | ✅ Completed (2026) |
 
 ---
@@ -153,6 +155,6 @@
 
 <div align="center">
 
-*💬 Open to DevOps, Cloud, SRE, and AI/MLOps opportunities — feel free to connect!*
+*💼 Open to DevOps, Cloud, SRE, and AI/MLOps opportunities — feel free to connect!*
 
 </div>
